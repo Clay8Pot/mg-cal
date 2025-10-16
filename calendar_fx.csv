@@ -1,2 +1,3 @@
 when,start_utc,end_utc,ccy,pair,priority,title,source,notes
 2025-10-23,18:00,18:30,USD,EURUSD,H,FOMC Rate Decision,Fed,Press conf follows
+2025-10-17,06:00,06:20,USD,EURUSD,H,Fed speaker (demo),Fed,Test row
