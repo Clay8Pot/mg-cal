@@ -1,1 +1,3 @@
 when,start_utc,end_utc,ccy,pair,priority,title,source,notes
+2025-10-18,18:00,19:00,USD,EURUSD,M,NVDA AI keynote,NVIDIA,roadmap
+2025-10-20,21:30,22:00,USD,EURUSD,M,MSFT Ignite AI session,Microsoft,Azure AI updates
