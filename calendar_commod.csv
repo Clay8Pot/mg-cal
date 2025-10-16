@@ -1,1 +1,3 @@
 when,start_utc,end_utc,ccy,pair,priority,title,source,notes
+2025-10-18,01:00,01:30,USD,USDCAD,M,Baker Hughes rig count,BHI,oil-sensitive
+2025-10-22,14:30,15:00,USD,USDCAD,H,EIA crude inventories,EIA,weekly stocks
